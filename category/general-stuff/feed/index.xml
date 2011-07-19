@@ -10,7 +10,7 @@
     <title>Alexander Bjerkan</title>
     <link>http://alexanbj.github.com</link>
     <description>Programming and apps</description>
-    <pubDate>Tue, 19 Jul 2011 16:48:05 GMT</pubDate>
+    <pubDate>Tue, 19 Jul 2011 18:16:29 GMT</pubDate>
     <generator>Blogofile</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
@@ -24,7 +24,7 @@
       <content:encoded><![CDATA[<p>Here we go again. Inspired by <a href="http://romnes.github.com/">Magnus Romnes</a> I decided to
 setup my own blog that will probably never be updated. The cool thing is that
 this blog is driven by <a href="http://www.blogofile.com/">Blogofile</a>, a static website
-compiler written in Python. Why is that cool, yoy ask?</p>
+compiler written in Python. Why is that cool, you ask?</p>
 <p>It is cool because static HTML is safe, there's nothing executable and no
 databases like when using Wordpress, where security holes are discovered all
 the time.</p>
